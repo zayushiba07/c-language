@@ -1,0 +1,2 @@
+1.given number is positive then covert into negative 
+  and there square of number.++
