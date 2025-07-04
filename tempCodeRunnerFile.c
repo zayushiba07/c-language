@@ -1,2 +1,1 @@
-
-        number = 0 - number;
+ printf("program execute sucessfully..");
