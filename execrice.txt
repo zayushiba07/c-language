@@ -1,6 +1,7 @@
+--- if statement -----
 1.	1.given number is positive then covert into negative 
 	and there square of number.
-
+	
 3. Check if a number is positive.
 
 4.	Check if a number is even.
