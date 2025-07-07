@@ -1,1 +1,1 @@
- printf("program execute sucessfully..");
+gross_income
