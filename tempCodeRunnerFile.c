@@ -1,1 +1,1 @@
-int
+ total+=marks[size];
