@@ -1,1 +1,1 @@
- total+=marks[size];
+top
